@@ -1,0 +1,12 @@
+﻿/*button*/
+.table .btn {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.table input.disabled {
+	background-color: inherit;
+	border: none;
+}
+
+
